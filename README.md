@@ -38,7 +38,7 @@
     <a href = "mailto: gabrielmk301@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "www.linkedin.com/in/gabriel-moreno-31b100182">
+    <a href = "[www.linkedin.com/in/gabriel-moreno-31b100182](https://www.linkedin.com/in/gabriel-moreno-31b100182/)">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://api.whatsapp.com/send/?phone=5511985368674&text&type=phone_number&app_absent=0">
