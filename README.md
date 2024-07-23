@@ -23,7 +23,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">🚀 Minhas Skills</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,17 +32,21 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
-
-
-
-### 🚀 Minhas Skills ###
-<div style="display: inline_block"><br/>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,tailwind" />
-  </a>
-</p> 
-Escrevo códigos que transformam ideias em realidade, um algoritmo por vez."
+    
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: gabrielmk301@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "www.linkedin.com/in/gabriel-moreno-31b100182/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://api.whatsapp.com/send/?phone=5511985368674&text&type=phone_number&app_absent=0">
+      <img width="35" src="WhatsApp Logo PNG Sem Fundo Original Transparente.jpeg">
+    </a>
+    <a href = "https://www.instagram.com">
+      <img width="25" src="instagram.png">
+    </a>
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
