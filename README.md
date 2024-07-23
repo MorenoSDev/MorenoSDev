@@ -42,7 +42,7 @@
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://api.whatsapp.com/send/?phone=5511985368674&text&type=phone_number&app_absent=0">
-      <img width="35" src="WhatsApp Logo PNG Sem Fundo Original Transparente.jpeg">
+      <img width="35" src="Whatsapp.png">
     </a>
     <a href = "https://www.instagram.com">
       <img width="25" src="instagram.png">
