@@ -8,7 +8,7 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNINOVE.<br/>
 
-👨‍💻 Aperfeiçoando meus conhecimentos na Udemy e cursos gratuitos na web.
+👨‍💻 Aperfeiçoando meus conhecimentos na Origamid e cursos gratuitos na web.
 </p>
 <br/>
 
